@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reverse-proxy-architecture-live.vercel.app/sitemap.xml
